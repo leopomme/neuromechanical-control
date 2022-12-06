@@ -12,7 +12,6 @@ clc; set(0,'DefaultFigureWindowStyle','docked'); tic
 % qDesired = [angle_shoulder; angle_velocity_shoulder;
 %             angle_elbow;    angle_velocity_elbow];
 %
-% Atsushi Takagi 10/02/2016 modified by Silvia Muceli 14/02/2018
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Load reference trajectory for controller and experimental data
 
