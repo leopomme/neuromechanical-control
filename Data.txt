@@ -1,0 +1,45 @@
+Data:
+NFTraj [4x550 double]
+Data1 = 
+
+  struct with fields:
+
+           I_NF: [1×1 struct]
+          II_VF: [1×1 struct]
+    III_Channel: [1×1 struct]
+          IV_VF: [1×1 struct]
+           V_NF: [1×1 struct]
+Data1.I_NF
+  struct with fields:
+     T1: [1042×3 double]     % Each T is for one trail
+     T2: [150×3 double]
+     T3: [69×3 double]
+     T4: [130×3 double]
+     T5: [121×3 double]
+     T6: [84×3 double]
+     T7: [130×3 double]
+     T8: [83×3 double]
+     T9: [92×3 double]
+    T10: [99×3 double]
+    T11: [105×3 double]
+    T12: [86×3 double]
+    T13: [95×3 double]
+    T14: [96×3 double]
+    T15: [95×3 double]
+    T16: [108×3 double]
+    T17: [98×3 double]
+    T18: [107×3 double]
+    T19: [95×3 double]
+    T20: [99×3 double]
+    T21: [128×3 double]
+    T22: [86×3 double]
+    T23: [105×3 double]
+    T24: [90×3 double]
+    T25: [106×3 double]
+    T26: [106×3 double]
+    T27: [87×3 double]
+    T28: [96×3 double]
+    T29: [92×3 double]
+    T30: [97×3 double]
+    T31: [100×3 double]
+    T32: [108×3 double]
